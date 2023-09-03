@@ -1,0 +1,111 @@
+body{
+    background: #000;
+}
+.heders{
+  
+    height: 50px;
+    padding: 10px 7px;
+
+}
+.heders ul{
+    display: flex;
+    justify-content: center;
+}
+.heders ul li{
+    list-style: none;
+    padding: 10px 7px;
+    font-size: 20px;
+
+
+
+}
+.heders ul li a{
+    text-decoration: none;
+    color: white;
+}
+.con{
+    display: flex;
+justify-content: center;
+padding: 60px;
+border-radius: 20px;
+
+}
+
+ .con img {width: 200px;
+    height: 130px;
+    padding: 0 18%;
+    align-items: center;
+}
+.con h2{
+    display: flex;
+    justify-content: flex-start;
+}
+.con .imga{
+    background: #000;
+    margin: 0 40px;
+    border-radius: 20px;
+    width: 100%;
+    
+    
+}
+.con .var{
+    background: #000;
+    margin: 0 40px;
+    border-radius: 20px;
+    width: 100%;
+}
+.con .gar{
+    background: #000;
+    margin: 0 40px;
+    border-radius: 20px;
+    width: 100%;
+    color: #fff;
+    
+
+}
+.con .imga h2{
+    display: flex;
+    justify-content: center;
+   padding:30px 30px;
+   font-weight: 700;
+   color: #fff;
+   margin: 30px 30px;
+}
+.con .var h2{
+    display: flex;
+    justify-content: center;
+   padding:30px 40px;
+   font-weight: 700;
+   color: #fff;
+   margin: 30px 30px;
+}
+.con .gar h2{
+    display: flex;
+    justify-content: center;
+   padding: 30px 30px;
+   margin: 30px 30px;
+   font-weight: 700;
+   color: #fff;
+}
+.con a{
+    
+    text-decoration: none;
+    background: #fff;
+    color: #000;
+    padding: 8px 15px;
+    margin: 0 40%;
+    
+   
+
+    border-radius: 20px;
+
+
+
+    
+}
+img:hover{
+   transform: scale(1.3);
+    }
+
+
+
